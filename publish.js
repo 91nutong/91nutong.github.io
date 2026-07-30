@@ -33,18 +33,18 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '911tanhua@gmail.com'
+    '91nvtong01@gmail.com'
 ];
 
 var urls=[]; 
-       urls.push(".dsgrqyol.cc");  
-       urls.push(".levjnuvtq.cc");
-       urls.push(".hstshtqjk.cc");
+       urls.push(".zthdhjnp.cc");  
+       urls.push(".zthdhjnp.cc");
+       urls.push(".zthdhjnp.cc");
        
           
       
                                                                                  
-var JumpPage="https://zlpgujla.com";
+var JumpPage="https://rrohavaoq.cc";
 
 var newestUrls = [];
 
@@ -146,7 +146,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91探花'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91女同网'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
