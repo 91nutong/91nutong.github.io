@@ -62,15 +62,15 @@ for(var i =0;i<urls.length*3;i++){
 //     'https://' + getRandomSubdomain() + '.vildiho.cc'
 // ];
 var otherUrls = [
-    'https://911tanhua.github.io',
-    'https://911tanhua.netlify.app',
-    'https://911tanhua.pages.dev',
+    'https://91nutong.github.io',
+    'https://91nutong.netlify.app',
+    'https://91nutong.pages.dev',
     
 ];
 var foreverUrls = [
-	'https://911tanhua.com',
+	'https://91nvtong.com',
 	JumpPage,
-	'https://911tanhua.net',
+	'https://nvtongwang.net',
 	
 ];
 var notices = [
