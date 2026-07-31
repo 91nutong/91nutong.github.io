@@ -63,8 +63,8 @@ for(var i =0;i<urls.length*3;i++){
 // ];
 var otherUrls = [
     'https://91nutong.github.io',
-    'https://91nutong.netlify.app',
     'https://91nutong.pages.dev',
+    
     
 ];
 var foreverUrls = [
