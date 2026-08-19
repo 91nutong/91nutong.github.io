@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".hyxlywopd.cc");  
+       urls.push(".jrpluzpn.cc");  
+       urls.push(".hyxlywopd.cc");
        urls.push(".zbyljyts.cc");
-       urls.push(".oolpjudi.com");
        
           
       
